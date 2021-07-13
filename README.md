@@ -26,3 +26,5 @@ Display the sample metadata, i.e., an individual's demographic information.
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
 ### Summary
+
+First, we completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. This Customize Dashboard will help to identify the top 10 bacterial species in their belly buttons and volunteers will be able to identify whether that species is found in their navel.
