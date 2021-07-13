@@ -25,6 +25,10 @@ Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 
+Link for the Dashboard - https://gobi1616.github.io/plotly_deployment/
+
+![image](https://user-images.githubusercontent.com/82549869/125372120-55204880-e350-11eb-9fa8-d780e4ebe485.png)
+
 ### Summary
 
-First, we completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. This Customize Dashboard will help to identify the top 10 bacterial species in their belly buttons and volunteers will be able to identify whether that species is found in their navel.
+This report shows a completed panel for demographic information and now needs to visualize the bacterial data for each volunteer. This Customize Dashboard will help to identify the top 10 bacterial species in their belly buttons and volunteers will be able to identify whether that species is found in their navel.
